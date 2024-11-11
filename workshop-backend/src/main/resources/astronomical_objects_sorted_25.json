@@ -1,0 +1,327 @@
+[
+    {
+        "id": 1,
+        "name": "Aldebaran",
+        "type": "Star",
+        "distanceFromEarth": 65,
+        "brightness": 0.85,
+        "coordinates": {
+            "RA": 68.9801,
+            "Dec": 16.5093
+        },
+        "starClass": "K",
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 2,
+        "name":  "Alpha Centauri",
+        "type": "Star",
+        "distanceFromEarth": 4.37,
+        "brightness": -0.27,
+        "coordinates": {
+            "RA": 219.9,
+            "Dec": -60.8339
+        },
+        "starClass": "G",
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 3,
+        "name":  "Altair",
+        "type": "Star",
+        "distanceFromEarth": 16.73,
+        "brightness": 0.76,
+        "coordinates": {
+            "RA": 297.6958,
+            "Dec": 8.8683
+        },
+        "starClass": "A",
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 4,
+        "name":  "Andromeda Galaxy",
+        "type": "Galaxy",
+        "distanceFromEarth": 2537000,
+        "brightness": 3.44,
+        "coordinates": {
+            "RA": 10.6847,
+            "Dec": 41.269
+        },
+        "starClass": null,
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 5,
+        "name":  "Antares",
+        "type": "Star",
+        "distanceFromEarth": 550,
+        "brightness": 0.96,
+        "coordinates": {
+            "RA": 247.3519,
+            "Dec": -26.432
+        },
+        "starClass": "M",
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 6,
+        "name":  "Arcturus",
+        "type": "Star",
+        "distanceFromEarth": 36.66,
+        "brightness": -0.05,
+        "coordinates": {
+            "RA": 213.9153,
+            "Dec": 19.1825
+        },
+        "starClass": "K",
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 7,
+        "name":  "Barnard's Star",
+        "type": "Star",
+        "distanceFromEarth": 5.96,
+        "brightness": 9.5,
+        "coordinates": {
+            "RA": 269.4523,
+            "Dec": 4.6934
+        },
+        "starClass": "M",
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 8,
+        "name":  "Betelgeuse",
+        "type": "Star",
+        "distanceFromEarth": 642.5,
+        "brightness": 0.42,
+        "coordinates": {
+            "RA": 88.7929,
+            "Dec": 7.4071
+        },
+        "starClass": "M",
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 9,
+        "name":  "Canopus",
+        "type": "Star",
+        "distanceFromEarth": 310,
+        "brightness": -0.74,
+        "coordinates": {
+            "RA": 95.9879,
+            "Dec": -52.6957
+        },
+        "starClass": "A",
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 10,
+        "name":  "Deneb",
+        "type": "Star",
+        "distanceFromEarth": 2615,
+        "brightness": 1.25,
+        "coordinates": {
+            "RA": 310.3579,
+            "Dec": 45.2803
+        },
+        "starClass": "A",
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 11,
+        "name":  "Large Magellanic Cloud",
+        "type": "Galaxy",
+        "distanceFromEarth": 163000,
+        "brightness": 0.9,
+        "coordinates": {
+            "RA": 80.8939,
+            "Dec": -69.7561
+        },
+        "starClass": null,
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 12,
+        "name":  "Messier 13",
+        "type": "Globular Cluster",
+        "distanceFromEarth": 22000,
+        "brightness": 5.8,
+        "coordinates": {
+            "RA": 250.4239,
+            "Dec": 36.4613
+        },
+        "starClass": null,
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 13,
+        "name":  "Messier 31",
+        "type": "Galaxy",
+        "distanceFromEarth": 2537000,
+        "brightness": 3.44,
+        "coordinates": {
+            "RA": 10.6847,
+            "Dec": 41.2689
+        },
+        "starClass": null,
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 14,
+        "name": "Messier 57 (Ring Nebula)",
+        "type": "Planetary Nebula",
+        "distanceFromEarth": 2300,
+        "brightness": 8.8,
+        "coordinates": {
+            "RA": 283.3967,
+            "Dec": 33.0306
+        },
+        "starClass": null,
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 15,
+		"name": "Messier 87",
+        "type": "Galaxy",
+        "distanceFromEarth": 53800000,
+        "brightness": 9.6,
+        "coordinates": {
+            "RA": 187.7059,
+            "Dec": 12.3911
+        },
+        "starClass": null,
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 16,
+        "name":  "Messier 104 (Sombrero Galaxy)",
+        "type": "Galaxy",
+        "distanceFromEarth": 29000,
+        "brightness": 8.0,
+        "coordinates": {
+            "RA": 189.9979,
+            "Dec": -11.6231
+        },
+        "starClass": null,
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 17,
+        "name":  "NGC 346",
+        "type": "Star Formation Region",
+        "distanceFromEarth": 210000,
+        "brightness": 10.3,
+        "coordinates": {
+            "RA": 14.7489,
+            "Dec": -72.436
+        },
+        "starClass": null,
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 18,
+        "name":  "Orion Nebula",
+        "type": "Nebula",
+        "distanceFromEarth": 1344,
+        "brightness": 4.0,
+        "coordinates": {
+            "RA": 83.8221,
+            "Dec": -5.3911
+        },
+        "starClass": null,
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 19,
+		"name": "Pleiades",
+        "type": "Star Cluster",
+        "distanceFromEarth": 444,
+        "brightness": 1.6,
+        "coordinates": {
+            "RA": 56.75,
+            "Dec": 24.1167
+        },
+        "starClass": null,
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 20,
+        "name":  "Polaris",
+        "type": "Star",
+        "distanceFromEarth": 323,
+        "brightness": 1.98,
+        "coordinates": {
+            "RA": 37.9546,
+            "Dec": 89.2641
+        },
+        "starClass": "F",
+        "hemisphere": "Northern"
+    },
+    {
+        "id": 21,
+        "name":  "Proxima Centauri",
+        "type": "Star",
+        "distanceFromEarth": 4.24,
+        "brightness": 11.13,
+        "coordinates": {
+            "RA": 217.4292,
+            "Dec": -62.6794
+        },
+        "starClass": "M",
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 22,
+        "name":  "Rigel",
+        "type": "Star",
+        "distanceFromEarth": 860,
+        "brightness": 0.18,
+        "coordinates": {
+            "RA": 78.6345,
+            "Dec": -8.2016
+        },
+        "starClass": "B",
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 23,
+		"name": "Sagittarius A*",
+        "type": "Black Hole",
+        "distanceFromEarth": 26000,
+        "brightness": null,
+        "coordinates": {
+            "RA": 266.4168,
+            "Dec": -29.0078
+        },
+        "starClass": null,
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 24,
+        "name":  "Sirius",
+        "type": "Star",
+        "distanceFromEarth": 8.6,
+        "brightness": -1.46,
+        "coordinates": {
+            "RA": 101.2875,
+            "Dec": -16.7161
+        },
+        "starClass": "A",
+        "hemisphere": "Southern"
+    },
+    {
+        "id": 25,
+        "name":  "Vega",
+        "type": "Star",
+        "distanceFromEarth": 25.04,
+        "brightness": 0.03,
+        "coordinates": {
+            "RA": 279.2347,
+            "Dec": 38.7837
+        },
+        "starClass": "A",
+        "hemisphere": "Northern"
+    }
+]

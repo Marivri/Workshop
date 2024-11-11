@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "DUO astronomy demo",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
