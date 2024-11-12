@@ -16,6 +16,7 @@ export class ObjectListComponent implements OnInit {
 
   ngOnInit(): void {
     this.getAll();
+    this.getObject(1);
     console.log(this.objects)
   }
 
@@ -25,4 +26,7 @@ export class ObjectListComponent implements OnInit {
     this.objectService.getAll().subscribe(data => this.objects = data)
   }
 
+  getObject(id: number){
+    this.objectService.getObjectById(id).subscribe(data => console.log(data))
+  }
 }

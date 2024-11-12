@@ -12,4 +12,8 @@ export class ObjectService {
   getAll() {
     return this.http.get<AstronomicalObject[]>('http://localhost:8080/api/objects')
   }
+
+  getObjectById(id: number){
+    return this.http.get<AstronomicalObject>('http://localhost:8080/api/objects/' + id)
+  }
 }
