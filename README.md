@@ -4,8 +4,8 @@
 
 1) Build the application `mvn clean install`
 2) Start the application with `mvn spring-boot:run`
-3) Test the API endpoints with for example the API-testtool Bruno, download: https://www.usebruno.com/downloads
-You can open the Bruno project from the bruno folder in the Workshop project. 
+3) Test the API endpoints with for example the API-testtool Bruno, download: https://www.usebruno.com/downloads \
+You can open the Bruno project from the bruno folder in the Workshop project. \
 Try to get all objects, an object with a certain id, update (put) an object, add (post) an object, and delete an object.
 After every change, you can get the list of all objects again and see the change.
 4) Optional: Try to add a new request in Bruno to get all objects from a specific type.
@@ -22,6 +22,6 @@ Tip: You can use F12 to see the chrome devtools (with possible errors, logging, 
 - you can use html to display it in a list or a table (https://www.w3schools.com/html/)
 - you can add some styling using css (https://www.w3schools.com/css/)
 - you can use angular material (a UI component library) to present the data in a card (https://material.angular.io/components/card/examples)
-4) Or you can try to add the function to get the objects by type and log them in the console / present them on screen. 
+4) Or you can try to add the function to get the objects by type and log them in the console / present them on screen. \
 Tip: You can use the getObjectById() function as an example.
  
