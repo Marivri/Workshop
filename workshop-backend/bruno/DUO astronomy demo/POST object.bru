@@ -1,0 +1,26 @@
+meta {
+  name: POST object
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:8080/api/objects
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "New Star",
+    "type": "Star",
+    "distanceFromEarth": 5000.0,
+    "brightness": 4.5,
+    "coordinates": {
+      "RA": 300.0,
+      "Dec": -45.0
+    },
+    "starClass": "B2V",
+    "hemisphere": "Northern"
+  }
+}

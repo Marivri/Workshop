@@ -1,0 +1,26 @@
+meta {
+  name: PUT object (update existing object)
+  type: http
+  seq: 3
+}
+
+put {
+  url: http://localhost:8080/api/objects/1
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "Updated Star",
+    "type": "Star",
+    "distanceFromEarth": 4000.0,
+    "brightness": 2.0,
+    "coordinates": {
+      "RA": 200.0,
+      "Dec": 20.0
+    },
+    "starClass": "A0V",
+    "hemisphere": "Southern"
+  }
+}
